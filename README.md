@@ -8,4 +8,7 @@ This repository contains projects that I have been assigned as a web development
 ## Task 2 - Tribute Page
 ![image](https://user-images.githubusercontent.com/105808186/186901375-0859d743-7b4b-46f4-9c9f-3f3bbf79b8d4.png)
 
+## Task 3 - Todo List
+![image](https://user-images.githubusercontent.com/105808186/187085918-a828019d-d0be-45d3-866d-445e0dfa3d1a.png)
+
 
