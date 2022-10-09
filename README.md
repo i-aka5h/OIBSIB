@@ -1,5 +1,5 @@
 # OIBSIB
-This repository contains projects that I have been assigned as a web development intern at Oasis Infobyte.
+This repository contains tasks that I have been assigned at Oasis Infobyte.
 
 # Level 2
 ## Task 1 - Calculator
